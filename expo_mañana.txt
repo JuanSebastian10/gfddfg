@@ -1,0 +1,25 @@
+----------------------HISTORIA--------------------------------------
+
+En los años iniciales cuando las organizaciones empezaban a manejar la tecnologia para si mismos empezaron
+a necesitar que la data manejada en cada uno de sus departamentos pudiera ser accedida por los otros 
+la solucion inmediata fue crear mecanismos de comunicacion directa entre sistema 
+lo que se conoce como conexiones de punto a punto 
+Al principio estuvo bien pero empezaron a originarse problemas para la gestion de estas conexiones, se 
+volvieron costosos los desarrollos y encontrar personal cualificado se volvio complejo
+
+
+Producto de este desorden, fue que las empresas proveedoras buscaron estandarizar estos enfoques de 
+comunicacion para poder establecer el como, por donde y cuando debian conversar los sistemas entre si 
+
+de esta forma se puede asegurar que los centros de integracion fueron los precursores de los ESB
+fue este enfoque que junto a las tecnologias de los inicios del 2000 sobre las formas de comunicacion via
+internet 
+
+con la estandarizacion del desarrollo de las comunicaciones entre sistemas logro rapidez y menor costo 
+para SOA las integraciones se denominaban servicios y el objetivo era que estos servicios fueran
+reutilizables lo que permitiria nuevas aplicaciones sin un desarrollo profundo
+
+La materialización de este enfoque dio lugar a los Buses Empresariales de Servicios
+
+----------------------DESVENTAJAS----------------------------------------
+https://www.linkedin.com/pulse/algunas-de-las-ventajas-que-se-generan-alimplementar-un-acevedo/?originalSubdomain=es
