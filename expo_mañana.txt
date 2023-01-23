@@ -1,6 +1,6 @@
 ----------------------HISTORIA--------------------------------------
 
-En los años iniciales cuando las organizaciones empezaban a manejar la tecnologia para si mismos empezaron
+En los años niciales cuando las organizaciones empezaban a manejar la tecnologia para si mismos empezaron
 a necesitar que la data manejada en cada uno de sus departamentos pudiera ser accedida por los otros 
 la solucion inmediata fue crear mecanismos de comunicacion directa entre sistema 
 lo que se conoce como conexiones de punto a punto 
